@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee Details</title>
+</head>
+<body>
+<h2> Welcome to emp details</h2>
+<table border =4>
+
+  <thead>
+  <td>Emp_id</td>
+  <td>Emp_name</td>
+  <td>Emp_Salary</td>
+  <td>Emp_Email</td>
+  <td>Emp_Doj</td>
+  <td>Department_id</td>
+  <td>Location</td>
+  <td>Gender</td>
+  <td colspan=2>Action</td>
+  </thead>
+  {% for row in rows %}
+  <tr>
+    <td>{{row[0]}}</td>
+    <td>{{row[1]}}</td>
+    <td>{{row[2]}}</td>
+    <td>{{row[3]}}</td>
+    <td>{{row[4]}}</td>
+    <td>{{row[5]}}</td>
+    <td>{{row[6]}}</td>
+    <td>{{row[7]}}</td>
+    <td><a href="{{row[0]}}\eedit">EDIT</a> </td> <td><a href="{{row[0]}}\eDelete">DELETE</a> </td>
+
+
+  </tr>
+  {% endfor %}
+</table>
+
+</body>
+</html>

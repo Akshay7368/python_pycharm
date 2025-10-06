@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action ='/updateemptodb' method="POST">
+    <table>
+        <tr><td>Employee id</td><td><input type = "text" name = "eid" value={{rows[0][0]}} readonly> </td></tr>
+        <tr><td>Enter the name</td><td><input type="text" name="ename" value={{rows[0][1]}} ></td></tr>
+        <tr><td>Enter the Salary</td><td><input type="number" name="esalary" value={{rows[0][2]}} ></td></tr>
+        <tr><td>Enter the Email</td><td><input type="text" name="eemail" value={{rows[0][3]}} ></td></tr>
+        <tr><td>Enter the DOJ</td><td><input type="Date" name="eDOJ" value={{rows[0][4]}} ></td></tr>
+        <tr><td>Enter the DepartmentID</td><td><input type="number" name="edeptID" value={{rows[0][5]}} ></td></tr>
+        <tr><td>Enter the Location</td><td><input type="text" name="elocation" value={{rows[0][6]}} ></td></tr>
+        <tr><td>Enter the Gender</td><td><input type="text" name="egender" value={{rows[0][7]}} ></td></tr>
+        <tr><td><input type="Submit" name="Update"></td></tr>
+
+    </table>
+
+</form>
+</body>
+</html>
+

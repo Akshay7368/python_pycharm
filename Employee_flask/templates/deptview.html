@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>department details</title>
+</head>
+<body>
+<h4>Welcome to Department Details Page</h4>
+<table border=2>
+  <thead>
+  <td>department_id</td>
+  <td>department_name</td>
+  <td colspan=2>Action</td>
+  </thead>
+   {% for row in rows %}
+  <tr>
+    <td>{{row[0]}}</td>
+    <td>{{row[1]}}</td>
+    <td><a href="{{row[0]}}\dedit">EDIT</a> </td> <td><a href="{{row[0]}}\dDelete">DELETE</a> </td>
+
+  </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

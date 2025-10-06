@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action ='/updatedepttodb' method="POST">
+  <table>
+      <tr>
+      <td>Department ID</td>
+      <td><input type = "text" name = "did" value={{rows[0][0]}} readonly></td>
+      </tr>
+
+    <tr>
+      <td>Enter the Department Name</td>
+      <td><input type = "text" name = "dname" value={{rows[0][1]}}></td>
+    </tr>
+    <tr>
+      <td><input type = "Submit" name = "Update"></td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>

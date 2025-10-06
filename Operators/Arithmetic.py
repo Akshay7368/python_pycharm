@@ -1,0 +1,16 @@
+# a = int(input("Enter the 1st number:"))
+# b = int(input("Enter the 2nd number:"))
+# print(f"The sum of {a} and {b} is {a+b} ")
+# print(f"The sum of {a} and {b} is {a-b} ")
+# print(f"The sum of {a} and {b} is {a*b} ")
+# print(f"The sum of {a} and {b} is {a/b} ")
+# print(f"The sum of {a} and {b} is {a//b} ")
+# print(f"The sum of {a} and {b} is {a % b} ")
+# firstname = input("Enter the first name")
+# lastname = input("Enter the last name")
+# print(firstname + lastname)
+
+num_1 = int(input("Enter the 1st no: "))
+num_2 = int(input("Enter the 2nd no: "))
+Ans = num_1 + num_2
+print(f"The Answer is", Ans)

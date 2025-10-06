@@ -1,0 +1,436 @@
+student_id,name,gender,date_of_birth,grade,email,phone_number,address,school_name,math,english,science,history,computer,total_marks,average_marks
+S00001,Martin Phillips,Male,2008-03-03,3,margarethopkins@example.net,(827)554-6134x1275,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,40,91,44,44,46,265,53.0
+S00002,Anthony Jennings,Male,2010-10-19,2,njenkins@example.net,001-537-683-5126,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,42,67,58,67,91,325,65.0
+S00003,Kristi Mann,Female,2015-09-03,8,villanuevajames@example.org,943-503-2378,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,92,55,83,80,57,367,73.4
+S00004,Joshua Wilson,Male,2018-04-08,6,turnerdavid@example.net,615.363.4462,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,69,80,82,89,81,401,80.2
+S00005,Meghan Mcpherson,Female,2018-09-20,2,fodonnell@example.com,228-869-9595x0260,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,47,70,75,60,57,309,61.8
+S00006,Lauren Patel,Female,2006-06-30,3,dwilkins@example.org,900-394-7010x4214,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,72,40,58,78,87,335,67.0
+S00007,Jennifer Cooper,Female,2007-06-16,8,crosbyregina@example.net,(959)626-2741x5526,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,99,91,55,99,68,412,82.4
+S00008,Nicole Herrera,Female,2016-11-26,12,ramirezbrittney@example.com,973-712-9673,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,55,44,66,48,56,269,53.8
+S00009,Carol Murphy,Female,2013-05-17,11,nicholaswright@example.org,975.381.6517x16441,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,72,78,88,75,48,361,72.2
+S00010,John Day,Male,2019-09-03,1,troyhammond@example.org,9772885206,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,41,93,82,73,80,369,73.8
+S00011,Anthony Crosby,Male,2010-06-12,11,flemingalicia@example.com,940-978-7611,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,73,54,93,85,41,346,69.2
+S00012,Matthew Peterson,Male,2009-10-17,7,jennifergarcia@example.net,001-536-957-0313x648,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,44,79,93,90,48,354,70.8
+S00013,Frank Lowe,Male,2010-04-04,2,ashleysmith@example.org,(703)599-0584x593,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,57,55,70,75,45,302,60.4
+S00014,Hannah Wagner,Female,2016-07-13,7,mirandabond@example.com,-6807,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,61,62,84,80,80,367,73.4
+S00015,Dana Fuller,Female,2013-08-22,6,mjones@example.com,820.855.6802x93599,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,46,98,67,89,87,387,77.4
+S00016,Amy Robinson,Female,2018-11-08,4,dillon68@example.net,+1-783-376-8842x204,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,77,78,57,84,74,370,74.0
+S00017,Cassandra Richardson,Female,2017-09-07,4,michellemorales@example.net,607.279.1957x59767,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,71,69,48,69,69,326,65.2
+S00018,Yvonne Benjamin,Female,2017-01-03,8,mhouston@example.org,403-265-4399,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,70,50,95,60,66,341,68.2
+S00019,Ashley Nunez,Female,2015-09-07,10,shawn34@example.org,001-929-575-9787x21996,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,81,85,70,98,43,377,75.4
+S00020,Christopher Meyer,Male,2014-02-05,8,gomezkrista@example.net,(223)298-2908,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,56,43,59,88,46,292,58.4
+S00021,Cameron Burns,Male,2017-12-13,2,carlalopez@example.com,+1-576-839-8582x1069,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,56,89,71,85,62,363,72.6
+S00022,Alison Peck,Female,2015-10-10,8,hudsonmark@example.com,245-653-1959,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,77,73,40,61,84,335,67.0
+S00023,Kyle Park,Male,2016-05-16,5,wholt@example.org,6969745998,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,74,66,96,85,57,378,75.6
+S00024,Douglas Ortega,Male,2019-03-12,11,ohernandez@example.net,(972)337-1144x2493,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,99,48,94,95,57,393,78.6
+S00025,Michele Ingram,Female,2012-10-18,1,chanamber@example.net,001-277-290-4010x2754,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,96,40,53,40,51,280,56.0
+S00026,Tyler Schwartz,Male,2017-09-05,9,njohnson@example.net,001-566-483-7065x062,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,69,62,74,74,69,348,69.6
+S00027,Kelly James,Male,2020-01-22,5,susan18@example.net,381.369.3929x27173,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,42,73,56,79,93,343,68.6
+S00028,Brandi Davis,Female,2016-10-04,5,kroberts@example.org,+1-738-805-2572x9821,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,75,65,91,71,47,349,69.8
+S00029,Tiffany Mccullough,Female,2007-06-26,2,jordan28@example.net,726.504.1364x78278,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,92,79,41,90,49,351,70.2
+S00030,Amanda Jenkins,Female,2013-05-17,10,nallen@example.com,+1-579-282-9661x30258,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,42,52,42,63,91,290,58.0
+S00031,Anthony Brooks,Male,2015-08-13,5,hernandezstephanie@example.com,925.631.2491x3750,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,73,46,80,55,47,301,60.2
+S00032,Michael Martinez,Male,2016-07-08,4,natasha72@example.com,305.831.9792,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,64,99,77,62,89,391,78.2
+S00033,Jennifer Green,Female,2016-12-31,3,adam72@example.org,+1-476-936-8874x2411,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,81,74,57,87,49,348,69.6
+S00034,Ann Beck,Female,2009-04-12,3,juanzavala@example.org,(823)659-4458,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,81,81,47,68,78,355,71.0
+S00035,Steven Brown,Male,2009-04-22,5,qreyes@example.org,001-325-441-3847,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,77,67,74,54,93,365,73.0
+S00036,Alison Woodard,Female,2019-09-21,2,jcharles@example.com,224.852.6098x7351,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,50,87,65,76,41,319,63.8
+S00037,Paul Cooper,Male,2013-11-10,11,deanna49@example.net,867-300-0017,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,96,42,57,90,83,368,73.6
+S00038,Terri Shelton,Female,2015-01-19,12,kristinreeves@example.net,001-517-316-0849x495,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,61,64,85,62,63,335,67.0
+S00039,Scott Richard,Male,2009-04-12,5,charles58@example.org,(292)486-1878x4867,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,55,94,93,40,57,339,67.8
+S00040,George Scott,Male,2006-08-31,11,jacksonmargaret@example.net,001-934-850-8823x64223,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,100,43,63,74,77,357,71.4
+S00041,Michelle Osborne,Female,2013-06-02,10,zmoore@example.org,472-820-1392x208,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,40,55,67,84,71,317,63.4
+S00042,Jennifer Richards,Female,2012-10-11,1,rburgess@example.org,261-631-7073,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,51,41,54,92,40,278,55.6
+S00043,Taylor Nunez,Female,2018-09-22,2,sean71@example.org,(779)832-2146x663,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,68,53,73,65,55,314,62.8
+S00044,Victoria Acosta,Female,2006-06-29,11,jenny20@example.com,(957)235-0924x7193,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,80,94,94,94,41,403,80.6
+S00045,Joseph Brown,Male,2014-07-09,7,jerry81@example.net,(720)304-5320x54851,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,40,76,93,93,69,371,74.2
+S00046,Alexis Allen,Female,2007-11-17,3,shepherdian@example.com,001-975-887-9835,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,67,46,57,71,76,317,63.4
+S00047,Bonnie Brady,Female,2014-10-12,6,lisa79@example.org,405.342.9778x219,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,89,82,99,62,87,419,83.8
+S00048,Angelica Murphy,Female,2009-11-02,9,matthewmcguire@example.com,940.814.5690x7708,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,66,73,46,74,83,342,68.4
+S00049,Tonya Knight,Female,2017-07-31,4,wmason@example.org,001-438-937-4894x11312,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,44,85,83,83,69,364,72.8
+S00050,Michael Miller,Male,2008-01-04,12,jessica61@example.com,(277)762-0423,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,78,54,45,58,47,282,56.4
+S00051,Bryan Robinson,Male,2010-07-13,9,mooretanya@example.net,001-902-496-6313x23905,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,89,100,97,74,72,432,86.4
+S00052,Peggy Lopez,Female,2017-11-16,7,vmendez@example.com,619.503.8669x992,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,59,73,57,61,60,310,62.0
+S00053,Kim Barker,Female,2014-07-13,8,qphillips@example.net,671-677-1908,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,56,52,80,64,88,340,68.0
+S00054,Brian Hanna,Male,2009-05-16,3,breeves@example.com,860.458.1049,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,75,64,68,53,68,328,65.6
+S00055,Jonathan Kim,Male,2010-05-13,10,steven21@example.org,414-295-5429,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,92,80,82,61,100,415,83.0
+S00056,Curtis Wang,Male,2015-03-07,5,michael35@example.com,789-299-8666,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,75,100,97,64,95,431,86.2
+S00057,Kathryn Cohen,Female,2009-02-16,11,granttheresa@example.net,565.245.6634,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,65,94,65,40,56,320,64.0
+S00058,Amanda Butler,Female,2019-02-07,5,fkelly@example.com,265-328-5924,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,57,75,55,77,85,349,69.8
+S00059,Richard Foster,Male,2007-06-25,5,murrayjames@example.com,(649)542-0195,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,68,47,49,58,50,272,54.4
+S00060,Tyler Jones,Male,2014-08-28,7,huynheric@example.org,(901)839-6523x40447,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,82,70,76,79,86,393,78.6
+S00061,Angela Bell,Female,2008-11-01,10,ostewart@example.net,+1-400-346-3001x429,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,67,98,98,47,52,362,72.4
+S00062,Jessica Cohen,Female,2010-06-03,7,ronald09@example.org,(602)311-0471x02743,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,44,66,53,80,86,329,65.8
+S00063,Dennis Ruiz,Male,2017-05-28,5,sochoa@example.net,001-405-708-7208x69543,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,90,59,53,65,45,312,62.4
+S00064,Justin Porter,Male,2006-07-01,12,ronald10@example.com,001-351-429-4926,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,50,95,68,94,65,372,74.4
+S00065,Michael Graves,Male,2015-02-18,3,david45@example.com,(818)330-3942x92234,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,52,43,77,83,95,350,70.0
+S00066,Michelle Powers,Female,2008-10-15,5,anthony01@example.net,432.230.1430x86125,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,68,81,83,78,44,354,70.8
+S00067,David Knight,Male,2014-10-05,3,lambertjohn@example.org,+1-537-548-5034x18749,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,66,42,96,55,75,334,66.8
+S00068,Katie Oneal,Female,2015-06-21,1,paulbarry@example.net,001-840-991-4422x07195,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,50,85,42,71,77,325,65.0
+S00069,Sean Ortiz,Male,2016-11-11,7,dward@example.com,(956)585-3866x3896,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,73,46,43,82,83,327,65.4
+S00070,Debra Jimenez,Female,2016-03-03,9,lowewayne@example.org,+1-873-267-7959x640,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,55,45,52,51,79,282,56.4
+S00071,Carmen Fields,Female,2014-12-12,8,loganmcgee@example.com,(475)823-8078x330,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,59,84,48,65,44,300,60.0
+S00072,Angela Brown MD,Female,2019-06-14,8,tyrone67@example.com,263.328.5438,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,62,60,46,83,88,339,67.8
+S00073,Charles Reeves,Male,2012-06-21,4,maureenhudson@example.net,836.325.6177,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,82,98,68,47,55,350,70.0
+S00074,Monica Harrington,Female,2017-06-13,7,mmartinez@example.com,-4401,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,83,83,78,78,62,384,76.8
+S00075,Joseph Rogers,Male,2009-01-12,9,hamiltonandrew@example.com,+1-409-997-5014x812,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,48,58,92,50,90,338,67.6
+S00076,Erik Key,Male,2017-02-14,1,courtney52@example.net,(787)539-6135x50607,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,45,95,83,93,100,416,83.2
+S00077,Alison Johnson,Female,2015-12-10,3,annette05@example.com,470-238-7938,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,50,53,53,57,62,275,55.0
+S00078,Thomas Bates,Male,2007-07-12,8,larsonnorma@example.org,+1-441-748-0879x29476,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,97,47,82,46,40,312,62.4
+S00079,David Howell,Male,2016-12-04,6,christopher85@example.com,(825)802-4868x20763,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,73,54,89,73,75,364,72.8
+S00080,Nicole Obrien,Female,2006-11-07,8,jonathanbarrett@example.net,(762)840-9675x889,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,89,73,89,83,86,420,84.0
+S00081,Samuel Molina,Male,2015-09-17,6,banksstephanie@example.com,3763715242,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,54,60,97,60,89,360,72.0
+S00082,Ashley Morgan,Female,2009-10-13,12,ryan24@example.com,320.317.6323,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,97,43,82,86,50,358,71.6
+S00083,Robin Moss,Female,2012-03-15,5,lawrence78@example.net,(913)786-3779x64137,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,98,60,43,78,96,375,75.0
+S00084,Roger Baxter,Male,2009-03-23,11,kyle76@example.net,001-606-787-4838x23296,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,93,57,85,65,51,351,70.2
+S00085,Deborah Robinson,Female,2014-04-15,2,sharpcaitlin@example.net,(944)309-4357,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,50,83,51,74,67,325,65.0
+S00086,Robert Taylor,Male,2018-09-20,9,markmacias@example.org,343.759.6367x0602,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,94,89,58,44,53,338,67.6
+S00087,Lori Davis,Female,2009-07-31,6,beth78@example.com,001-495-953-2378x021,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,62,57,99,57,83,358,71.6
+S00088,Monica Cobb,Female,2007-07-10,8,walter65@example.net,001-509-618-0692x08654,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,48,94,92,47,44,325,65.0
+S00089,Jeffrey Thomas,Male,2007-06-18,5,melissa45@example.org,(384)501-5987,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,59,89,43,83,52,326,65.2
+S00090,Jennifer Scott,Female,2019-12-29,3,julie05@example.org,7046382813,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,60,40,61,74,83,318,63.6
+S00091,Jeffrey Smith,Male,2012-12-02,4,bharvey@example.net,001-605-563-2057x8676,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,87,84,63,61,92,387,77.4
+S00092,Kimberly Mccall,Female,2017-03-17,3,alexander51@example.com,+1-569-368-6891x193,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,90,77,78,94,99,438,87.6
+S00093,Jonathan Miranda,Male,2011-06-15,5,timothywoodard@example.net,+1-908-812-7745x76323,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,55,76,59,60,69,319,63.8
+S00094,Karina Walker,Female,2013-02-08,2,tammyryan@example.org,+1-577-830-3421x82079,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,82,81,40,87,74,364,72.8
+S00095,Raymond Swanson,Male,2009-11-17,10,smithjames@example.com,979-910-1402x6016,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,87,47,43,45,61,283,56.6
+S00096,Lisa Kaiser,Female,2008-09-26,6,harpermelvin@example.net,354.818.4395,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,52,49,48,72,64,285,57.0
+S00097,Jacob Robinson,Male,2011-07-17,4,walkerjames@example.com,001-212-318-7904x3611,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,93,84,50,68,45,340,68.0
+S00098,Matthew Mullins,Male,2015-03-20,6,qharrington@example.net,267.230.7115x124,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,62,50,81,99,79,371,74.2
+S00099,Jillian Whitaker,Female,2010-10-09,10,perezpatrick@example.org,(346)298-9862,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,51,62,81,47,67,308,61.6
+S00100,Mr. Jack Carson,Male,2008-09-02,12,pgallegos@example.org,-9290,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,93,79,77,89,68,406,81.2
+S00101,Kyle Rice,Male,2013-10-30,7,joneschristine@example.net,(663)886-2026x98721,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,95,92,76,84,64,411,82.2
+S00102,James Perkins,Male,2016-06-10,12,rodgerskristen@example.org,896-905-3097x4582,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,93,67,45,93,89,387,77.4
+S00103,Nancy Hernandez,Female,2015-03-26,8,anthonygonzales@example.net,328-352-9973x999,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,100,43,63,95,77,378,75.6
+S00104,Yolanda Hanson,Female,2010-08-13,8,teresabarajas@example.com,001-563-752-2103x4090,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,78,94,90,58,70,390,78.0
+S00105,Steven Morgan,Male,2013-09-15,12,dana10@example.org,991.485.7082,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,99,75,70,66,93,403,80.6
+S00106,Robert Parker,Male,2011-09-23,10,nlyons@example.com,(548)607-0445,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,89,43,69,49,56,306,61.2
+S00107,Deborah Greer,Female,2010-04-14,9,reynoldsjennifer@example.org,374.963.8952x599,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,91,91,55,42,54,333,66.6
+S00108,Alexis Ramirez,Female,2006-10-27,11,pgarcia@example.net,602.994.7724x2992,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,74,69,69,95,70,377,75.4
+S00109,Pamela Hubbard,Female,2006-09-06,9,john78@example.com,722-311-8424x516,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,68,80,61,84,96,389,77.8
+S00110,Matthew Jimenez,Male,2013-10-28,3,barnetterica@example.net,001-443-478-1738x0497,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,82,55,70,53,72,332,66.4
+S00111,Frank Bailey,Male,2009-12-23,5,robertole@example.net,417-954-3660,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,47,40,93,97,46,323,64.6
+S00112,Alyssa Ellis,Female,2011-02-12,6,ashley71@example.org,703-779-6565x1683,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,70,51,98,77,85,381,76.2
+S00113,Shannon Reynolds,Female,2011-12-15,9,montgomeryashley@example.org,2756492878,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,71,99,66,40,67,343,68.6
+S00114,Walter Eaton,Male,2006-12-12,7,simsjeremy@example.com,001-555-479-6018x7384,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,52,99,95,83,47,376,75.2
+S00115,Taylor Franklin,Male,2020-03-02,1,nicholas32@example.net,+1-229-524-3828x92411,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,41,60,82,67,77,327,65.4
+S00116,Stephanie Neal,Female,2006-06-14,2,robersonemily@example.com,001-576-447-3224x85320,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,76,77,85,53,68,359,71.8
+S00117,Christina Allison,Female,2010-03-30,2,rachelbraun@example.org,447.243.0540,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,48,64,76,69,91,348,69.6
+S00118,Raven Levine,Female,2016-09-25,8,kmullen@example.com,001-672-313-7622x54045,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,49,95,61,95,83,383,76.6
+S00119,Anna Rocha,Female,2017-07-23,3,phicks@example.net,681-946-1882,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,47,54,43,65,95,304,60.8
+S00120,Nicholas Gray,Male,2016-02-13,2,benjaminvalerie@example.net,(985)526-5611x2886,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,47,76,72,95,59,349,69.8
+S00121,Robert Jones,Male,2012-10-13,4,jenniferrivera@example.net,(494)841-1565x09594,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,79,77,52,88,42,338,67.6
+S00122,Grant Stewart,Male,2017-06-08,10,joshuawood@example.net,456-257-7525,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,53,81,53,61,88,336,67.2
+S00123,Christian Olson,Male,2015-03-23,1,janice58@example.com,441.265.5796x8720,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,51,47,68,100,95,361,72.2
+S00124,Mary Price,Female,2019-03-26,12,christina16@example.org,+1-745-942-3123x580,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,68,67,99,50,94,378,75.6
+S00125,Devon Schmidt,Male,2009-01-26,6,anthonygould@example.net,(687)456-8790x55910,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,83,65,78,41,51,318,63.6
+S00126,Lynn Bradshaw,Female,2006-11-04,4,ramosscott@example.org,001-940-235-9314x178,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,41,50,73,85,56,305,61.0
+S00127,Vanessa Carrillo,Female,2014-05-01,3,scott98@example.com,661.387.6680x9368,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,95,50,48,68,83,344,68.8
+S00128,Amy Jackson,Female,2020-04-07,7,anthonyhill@example.org,317-874-2865,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,90,72,73,89,63,387,77.4
+S00129,Pam Brown,Female,2011-09-06,10,rossanne@example.com,8223724042,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,89,71,94,93,95,442,88.4
+S00130,Nicole Stephens,Female,2015-06-02,8,dnguyen@example.com,(842)271-1487x19343,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,75,89,57,66,93,380,76.0
+S00131,Brittany Herring,Female,2011-10-15,8,andersonisabella@example.net,882-515-8762x9209,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,53,46,45,71,46,261,52.2
+S00132,Daniel Carter,Male,2015-02-26,12,knoxsteven@example.org,+1-434-614-5139x56145,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,58,82,73,48,64,325,65.0
+S00133,Joann Lee,Female,2015-07-05,12,zberry@example.org,(404)927-0065,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,70,50,55,85,44,304,60.8
+S00134,Bonnie Salinas,Female,2017-07-27,10,adrianjones@example.net,+1-441-434-3825x3082,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,77,42,84,59,42,304,60.8
+S00135,Christy Silva,Female,2014-06-08,4,jonconley@example.net,(218)622-5017x0008,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,92,60,81,66,97,396,79.2
+S00136,Jennifer Johnson,Female,2011-07-10,1,hannahkennedy@example.com,001-483-939-0793x90540,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,67,99,75,80,46,367,73.4
+S00137,Meghan Vaughn,Female,2008-06-29,3,sgardner@example.com,406-655-9710,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,70,61,57,67,65,320,64.0
+S00138,Kara Martinez,Female,2009-01-01,2,nicholsdaniel@example.com,(395)557-5702x41609,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,73,47,92,70,47,329,65.8
+S00139,Mary Peterson,Female,2006-10-24,4,owilson@example.org,+1-246-682-4697x142,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,95,78,68,97,61,399,79.8
+S00140,Mallory Burgess,Female,2007-05-15,7,umills@example.org,001-932-391-8986,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,95,75,60,97,42,369,73.8
+S00141,Andrew Moreno,Male,2018-10-06,12,brianstephenson@example.com,533-852-7396x352,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,53,43,61,76,59,292,58.4
+S00142,Roger Ruiz,Male,2016-12-08,6,salvarez@example.org,+1-772-542-8560x26100,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,97,91,52,48,45,333,66.6
+S00143,Todd Santiago,Male,2011-03-17,2,rangelmargaret@example.net,566.976.9599,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,97,79,50,55,86,367,73.4
+S00144,Felicia Benton,Female,2011-02-03,3,carlahughes@example.org,+1-926-538-1351x8922,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,58,81,51,49,60,299,59.8
+S00145,Raymond Edwards,Male,2010-02-01,2,lorrainefoster@example.net,(529)460-7120x171,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,74,93,56,73,85,381,76.2
+S00146,Debbie Phillips DVM,Female,2016-06-08,7,lhaney@example.com,777.562.6816x3367,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,97,50,90,99,54,390,78.0
+S00147,Carlos Knapp,Male,2018-04-04,1,bakeredward@example.org,(323)791-7258,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,64,40,48,54,73,279,55.8
+S00148,Lauren Smith,Female,2012-05-03,2,cynthia11@example.org,+1-901-749-9481x66534,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,66,99,42,55,44,306,61.2
+S00149,Christine Kim,Female,2010-08-18,3,emontgomery@example.org,539.565.8937,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,63,94,48,84,77,366,73.2
+S00150,Lauren Barber,Female,2016-08-25,10,cantukristen@example.com,932-920-9328,"078 Karla Manors, East Jessica, MH 18724",Gonzales-Rosales School,66,43,66,42,68,285,57.0
+S00001,Richard Smith,Male,2016-07-28,9,ericksonbrian@example.org,441-556-2481x761,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,53,46,54,84,91,328,65.6
+S00002,Susan Wiggins,Female,2006-09-15,12,bailey43@example.com,001-918-394-1729,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,97,83,78,94,50,402,80.4
+S00003,Donna Jimenez,Female,2017-02-27,10,dawn55@example.com,(508)485-2076x231,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,79,45,100,73,48,345,69.0
+S00004,Brandi Massey,Female,2013-07-23,12,zschneider@example.org,603-449-8800x74058,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,88,93,82,55,381,76.2
+S00005,Michael Anderson,Male,2019-04-27,12,nancykennedy@example.net,(217)378-6436,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,90,47,79,87,59,362,72.4
+S00006,Mr. John Todd PhD,Male,2014-10-16,7,justingaines@example.net,+1-472-933-1220x606,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,85,64,54,54,87,344,68.8
+S00007,Gina Smith,Female,2019-01-06,9,michael86@example.org,539-545-1691x04239,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,72,75,61,67,77,352,70.4
+S00008,Jacqueline Lawrence,Female,2011-10-19,9,jorgegibson@example.net,492-415-4892x6046,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,89,90,40,64,62,345,69.0
+S00009,Theresa Booker,Female,2012-08-02,10,nicholasboyer@example.com,2485801788,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,66,81,88,73,79,387,77.4
+S00010,Laura Murphy,Female,2017-04-19,3,angelicacastro@example.org,(756)651-3209x88081,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,81,66,86,41,54,328,65.6
+S00011,Robert Brown,Male,2017-05-20,5,brandon15@example.net,839.474.3715x543,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,58,51,54,68,93,324,64.8
+S00012,Gina Davis,Female,2011-06-07,2,morganaustin@example.net,(586)669-9998,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,80,67,59,71,53,330,66.0
+S00013,Brittany Jefferson,Female,2012-02-15,4,jennifer56@example.com,925-795-4873,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,51,76,81,79,350,70.0
+S00014,John Molina,Male,2015-05-30,5,traci84@example.com,001-674-462-6929,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,73,66,63,71,100,373,74.6
+S00015,Kevin Rose,Male,2018-07-27,12,keysarah@example.net,001-526-393-1144,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,62,91,44,98,44,339,67.8
+S00016,Joanne Martin,Female,2018-11-07,7,suzanne24@example.com,386.643.4744x6716,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,98,54,43,45,78,318,63.6
+S00017,Kerry Johnson,Female,2011-01-13,4,cannoncarmen@example.net,+1-381-665-2063x8268,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,57,42,44,93,42,278,55.6
+S00018,Kevin Cohen,Male,2008-09-07,10,mmiller@example.org,(969)563-6172x5757,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,75,60,74,53,68,330,66.0
+S00019,Mary Moses,Female,2018-06-25,8,bergertracy@example.net,918-464-5701x240,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,51,61,86,44,47,289,57.8
+S00020,Ronald Vazquez,Male,2013-07-29,5,mary49@example.org,001-776-988-4371x223,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,62,92,78,91,61,384,76.8
+S00021,Rachel Hobbs,Female,2011-10-10,11,robin66@example.com,+1-295-515-8126x76756,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,43,84,88,69,95,379,75.8
+S00022,David Williams,Male,2017-06-02,6,bradleyyvonne@example.net,687-669-7392,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,75,57,87,81,393,78.6
+S00023,Danny Smith,Male,2008-03-10,12,davenportsusan@example.net,(429)793-8174,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,62,99,86,92,55,394,78.8
+S00024,Corey Long,Male,2019-07-04,2,joseph63@example.org,+1-439-930-9214x37812,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,64,50,94,95,86,389,77.8
+S00025,Carrie Guzman,Female,2011-03-06,3,qgardner@example.com,+1-235-329-6050x8068,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,78,74,76,47,69,344,68.8
+S00026,Alicia Baker,Female,2015-11-29,6,mmiles@example.net,506-312-0260x330,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,99,99,83,63,48,392,78.4
+S00027,Larry Fowler,Male,2014-10-22,2,kingdavid@example.net,001-697-939-4186x2976,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,54,89,53,76,53,325,65.0
+S00028,Jessica Garcia,Female,2008-07-01,6,andrewsmary@example.com,383-982-1357x39975,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,83,46,76,60,74,339,67.8
+S00029,Shelly Poole,Female,2012-01-19,12,jacqueline78@example.org,313.640.9542x36200,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,49,94,40,46,61,290,58.0
+S00030,William Mitchell,Male,2015-08-31,6,rosskimberly@example.com,-2872,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,49,69,44,62,98,322,64.4
+S00031,Taylor Williams,Male,2015-01-06,2,ytorres@example.com,+1-816-767-4722x5984,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,49,92,53,90,89,373,74.6
+S00032,Jennifer Wright,Female,2009-11-07,12,gomezbianca@example.org,2942372650,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,92,87,45,74,64,362,72.4
+S00033,Kathy Smith,Female,2014-06-06,1,harperrobert@example.org,617.282.8646,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,57,51,50,71,279,55.8
+S00034,Catherine Mills,Female,2012-06-09,4,robinsonlynn@example.org,-4470,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,88,56,67,54,54,319,63.8
+S00035,Tammie Pena,Female,2017-05-14,1,holly80@example.org,402.619.3199x67866,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,72,57,65,84,328,65.6
+S00036,Catherine Wilson,Female,2016-08-27,9,melissa43@example.org,401-497-6377x193,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,78,72,60,57,54,321,64.2
+S00037,Jennifer Nguyen,Female,2018-02-24,11,wrightscott@example.org,570.943.4559,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,59,88,57,89,72,365,73.0
+S00038,Linda Williams,Female,2007-04-16,3,alexander78@example.com,-5331,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,90,99,69,76,55,389,77.8
+S00039,Jesse Keller,Male,2014-11-10,6,russellturner@example.com,2848169858,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,66,43,64,41,48,262,52.4
+S00040,Steven Garcia,Male,2017-10-21,3,ashley04@example.com,234.338.3037,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,78,86,75,68,400,80.0
+S00041,Brittany Cross,Female,2008-08-13,7,jessicaowens@example.net,(428)853-5767,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,80,45,66,76,75,342,68.4
+S00042,Katherine Thomas,Female,2014-04-01,1,jessicaroberts@example.net,+1-445-207-7334x52252,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,53,40,99,77,57,326,65.2
+S00043,Monica Williams,Female,2016-12-15,1,jacquelineknox@example.com,658-694-6297x355,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,82,98,84,93,71,428,85.6
+S00044,Craig Chen,Male,2012-03-08,7,xmclean@example.com,+1-451-507-9044x23199,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,89,99,86,72,56,402,80.4
+S00045,Jeffrey Rios,Male,2015-06-25,10,mcleanmegan@example.net,200-947-5048,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,46,87,92,55,43,323,64.6
+S00046,Stephanie Wilson,Female,2008-10-24,9,thomasmckay@example.org,(629)607-6811,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,64,87,40,65,90,346,69.2
+S00047,Mark Cook,Male,2006-09-26,3,adam63@example.com,631-844-3084x7894,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,67,47,42,94,81,331,66.2
+S00048,Kristopher Marshall,Male,2008-06-30,1,pking@example.org,908.289.6269x5245,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,49,81,88,87,54,359,71.8
+S00049,Donald Roberts,Male,2012-02-17,2,mark14@example.com,(925)854-9066x4392,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,53,40,59,96,64,312,62.4
+S00050,Linda Meyer,Female,2009-01-02,5,julie66@example.net,(454)996-2242x396,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,43,100,96,50,42,331,66.2
+S00051,Erica Simpson,Female,2009-09-19,11,rterry@example.org,268.478.9270x97623,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,88,87,59,61,96,391,78.2
+S00052,Curtis Burgess,Male,2009-02-27,10,gramirez@example.org,908-277-2868x64676,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,62,42,62,80,95,341,68.2
+S00053,Jill Dennis,Female,2013-02-11,7,greggraves@example.net,247-510-3620x698,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,45,65,43,50,50,253,50.6
+S00054,Katherine Patel,Female,2018-10-24,1,caroline05@example.org,(528)295-1052,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,44,40,45,71,77,277,55.4
+S00055,Andrea Mendoza,Female,2007-08-30,11,yblair@example.net,533.438.3626x68538,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,80,67,96,51,46,340,68.0
+S00056,Taylor Henry,Female,2010-09-21,4,cartercarlos@example.org,001-422-897-2982x758,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,79,69,82,84,66,380,76.0
+S00057,April Williams,Female,2015-12-08,1,jay68@example.org,468-316-4955,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,53,74,80,80,41,328,65.6
+S00058,Antonio Martinez,Male,2009-11-19,8,jeremyphillips@example.com,(250)322-8036,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,76,69,79,46,83,353,70.6
+S00059,Nancy Garner,Female,2017-06-03,2,sharon71@example.net,001-979-422-2040,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,45,60,82,80,87,354,70.8
+S00060,Jeffrey Owens,Male,2020-03-12,10,amiranda@example.org,381-478-6942,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,81,67,68,77,343,68.6
+S00061,Robert Black,Male,2015-01-10,4,rwright@example.org,+1-487-571-4093x34822,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,40,45,70,83,84,322,64.4
+S00062,Anne Simmons,Female,2014-12-27,10,wattsmatthew@example.com,799.345.4438,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,51,64,71,69,99,354,70.8
+S00063,Kim Murphy,Female,2007-07-14,11,ronniepena@example.org,+1-914-295-9298x081,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,61,72,89,92,377,75.4
+S00064,David Allen,Male,2014-12-04,11,carlsonjulie@example.net,463.677.5415,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,66,100,90,75,57,388,77.6
+S00065,Joseph Valentine,Male,2019-12-05,8,obrewer@example.net,937.571.7921x444,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,65,50,97,61,82,355,71.0
+S00066,Margaret Rivers,Female,2011-05-21,10,ereed@example.com,789-888-7355x586,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,59,89,74,47,72,341,68.2
+S00067,Heather Smith,Female,2014-04-24,3,phelpsgeorge@example.com,2869904635,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,59,60,99,61,75,354,70.8
+S00068,Joseph Vasquez,Male,2017-08-04,1,hernandezjason@example.org,(738)661-1863x9990,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,95,48,45,91,90,369,73.8
+S00069,Brandon Adams,Male,2018-08-20,3,sgonzalez@example.net,427.289.1675x505,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,70,53,75,71,58,327,65.4
+S00070,Joshua Hudson,Male,2009-12-10,8,nlewis@example.org,868-338-9949,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,47,74,72,42,285,57.0
+S00071,James Perry,Male,2018-08-04,11,ksmith@example.net,(500)808-0631x41239,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,62,66,49,62,58,297,59.4
+S00072,Randy Swanson,Male,2012-07-17,5,sheasteven@example.com,8583267828,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,49,91,83,48,57,328,65.6
+S00073,Natasha Hodge,Female,2012-07-02,9,charlesfigueroa@example.com,7114206340,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,45,75,41,63,274,54.8
+S00074,Wesley Ewing,Male,2009-10-17,6,wagnermark@example.net,(647)938-4683x588,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,68,49,77,79,93,366,73.2
+S00075,Hunter Mitchell,Male,2018-10-08,3,sean82@example.org,(295)220-9567x542,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,44,49,46,55,62,256,51.2
+S00076,Darlene Shaw,Female,2013-07-26,8,angela64@example.org,722.455.9100,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,79,40,45,56,84,304,60.8
+S00077,Paige Mcdaniel,Female,2011-08-10,5,bradley99@example.com,375-337-7819x80555,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,60,48,61,68,83,320,64.0
+S00078,Nathan Moyer,Male,2014-06-07,11,elijah22@example.com,305.974.0613,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,65,43,63,62,100,333,66.6
+S00079,Charles Wong,Male,2010-09-10,3,karenmarsh@example.com,509.786.3948x3635,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,75,40,96,90,394,78.8
+S00080,Austin Cabrera,Male,2006-07-01,6,xnunez@example.org,(940)248-0460x815,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,77,58,57,64,46,302,60.4
+S00081,Jamie Ramirez,Female,2014-08-12,6,floresderrick@example.net,3898995006,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,67,90,71,75,98,401,80.2
+S00082,Aaron Smith,Male,2014-12-31,3,joshua38@example.org,-8523,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,45,80,57,68,58,308,61.6
+S00083,John Taylor,Male,2017-08-06,6,blakeandrew@example.org,+1-670-579-1817x6895,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,87,90,44,40,99,360,72.0
+S00084,Melissa Morris,Female,2017-12-12,7,vsmith@example.net,442.655.4602x492,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,77,56,53,90,72,348,69.6
+S00085,Ashley Anderson,Female,2009-12-25,10,traviswalker@example.com,274-717-0931,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,86,58,43,41,95,323,64.6
+S00086,Kimberly Edwards,Female,2012-05-03,1,kenneth42@example.com,001-377-640-4437x935,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,93,43,85,85,369,73.8
+S00087,Laura Meyer,Female,2006-05-06,6,qvalencia@example.org,5742111645,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,43,71,63,77,85,339,67.8
+S00088,Emily Sullivan,Female,2017-03-30,5,susan21@example.net,463.588.5875,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,96,53,48,42,55,294,58.8
+S00089,Maria Welch,Female,2016-03-04,1,jennypatterson@example.com,625.766.6752,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,66,77,91,100,84,418,83.6
+S00090,Alejandro Atkins,Male,2018-12-30,9,holtnicholas@example.net,857-355-3178,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,52,50,54,65,86,307,61.4
+S00091,Kenneth White,Male,2010-11-12,1,esmith@example.net,(772)815-5303x6793,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,75,92,96,90,89,442,88.4
+S00092,Sydney Long,Female,2010-02-25,8,sean26@example.net,(601)701-5332x45517,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,74,69,54,94,97,388,77.6
+S00093,Tiffany Hamilton,Female,2017-02-21,8,nmendoza@example.org,566.832.6619,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,95,73,59,93,61,381,76.2
+S00094,Alyssa Nguyen,Female,2010-11-15,4,marychristensen@example.org,9237227014,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,45,67,73,57,40,282,56.4
+S00095,Elizabeth Moore,Female,2008-06-19,2,edwardsjeremy@example.com,(971)693-0304,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,58,60,49,56,69,292,58.4
+S00096,Jonathan Lewis,Male,2014-04-06,6,jonescrystal@example.org,728-526-2203,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,73,50,94,69,71,357,71.4
+S00097,Jennifer Scott,Female,2012-03-18,11,lopezmichael@example.net,814-751-1840x795,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,54,79,77,59,56,325,65.0
+S00098,Michael Henry,Male,2011-05-10,1,vincentsarah@example.com,221-242-0328,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,84,72,63,75,387,77.4
+S00099,Tony Freeman,Male,2016-06-06,10,robertknight@example.net,415.356.6979x005,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,54,68,88,77,58,345,69.0
+S00100,Calvin Ramos,Male,2008-01-17,4,gregory53@example.net,242-714-6237x6543,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,89,96,42,67,40,334,66.8
+S00101,Paige Davis,Female,2018-10-03,4,victoriaolson@example.com,458-381-3667x764,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,71,57,89,83,49,349,69.8
+S00102,Megan Martin,Female,2017-06-03,12,davidsharp@example.net,727-208-6037,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,94,77,48,81,363,72.6
+S00103,Elizabeth Freeman,Female,2011-06-18,2,charles03@example.com,001-931-910-5251,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,98,81,88,64,73,404,80.8
+S00104,Ronald Bryant,Male,2012-08-09,4,steven25@example.net,(526)565-3489,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,100,87,77,74,95,433,86.6
+S00105,Cole Sherman,Male,2012-03-27,1,gene25@example.com,(701)358-7224,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,82,60,75,99,94,410,82.0
+S00106,Mark Shields,Male,2011-06-25,2,chad05@example.org,750.407.0878,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,52,78,64,62,349,69.8
+S00107,Lori Lamb,Female,2018-02-04,10,campbellvicki@example.org,315.836.5421,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,93,86,44,45,45,313,62.6
+S00108,April Spence,Female,2011-08-02,6,brian16@example.org,001-771-613-1404x74591,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,61,57,80,55,316,63.2
+S00109,Brian Branch,Male,2014-02-09,1,ashley42@example.net,(609)249-6715x783,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,44,94,81,99,56,374,74.8
+S00110,Michelle Bishop,Female,2006-11-16,8,ghorn@example.com,(361)797-8803,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,72,46,57,94,74,343,68.6
+S00111,Jamie Perez,Female,2011-03-14,8,bradley84@example.org,550-620-0129x18824,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,100,82,82,98,96,458,91.6
+S00112,Mike Avery,Male,2017-05-19,5,diana96@example.org,419-420-9166x303,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,81,52,61,60,90,344,68.8
+S00113,Whitney Gordon,Female,2018-09-17,3,jodi07@example.org,(445)689-8167x85184,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,80,58,60,86,61,345,69.0
+S00114,William Pugh,Male,2012-12-16,12,zbrock@example.com,(605)986-8055x87681,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,68,43,69,95,83,358,71.6
+S00115,Christina Patel,Female,2015-06-11,12,jamesowens@example.com,(357)486-6655,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,77,80,95,76,78,406,81.2
+S00116,Tommy Wallace,Male,2016-07-02,3,opruitt@example.com,(929)708-1931x996,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,50,90,85,95,54,374,74.8
+S00117,Christina Bryan,Female,2013-05-28,1,yorkbrianna@example.org,+1-524-387-9957x865,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,94,52,98,69,44,357,71.4
+S00118,Luke Nicholson,Male,2020-03-13,2,powellheather@example.net,667.596.4268,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,88,70,98,99,46,401,80.2
+S00119,Samantha Vincent,Female,2016-07-05,6,hollydouglas@example.com,(663)374-5824,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,59,90,94,86,100,429,85.8
+S00120,William Bass,Male,2009-01-08,4,charlessmith@example.com,(306)839-6574,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,68,98,57,95,47,365,73.0
+S00121,Derrick Cisneros,Male,2008-02-27,9,colleen33@example.com,(911)712-9774x5662,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,84,48,92,72,42,338,67.6
+S00122,Cory Macdonald,Male,2014-11-26,5,nguyenamanda@example.com,643-730-9795,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,74,69,78,73,66,360,72.0
+S00123,Pamela Gomez,Female,2010-09-25,4,rollinspaul@example.org,6649617101,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,58,44,93,70,85,350,70.0
+S00124,Thomas Carlson,Male,2020-04-14,3,karen93@example.net,641.642.1241x962,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,84,65,49,100,71,369,73.8
+S00125,John Mueller,Male,2014-05-13,4,jason96@example.org,001-509-827-6711,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,76,85,73,59,85,378,75.6
+S00126,Adam Chen,Male,2011-12-28,4,grodriguez@example.org,(879)203-5278x2237,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,83,61,60,97,89,390,78.0
+S00127,Jordan Briggs,Male,2015-09-21,12,markgarcia@example.org,613.968.5102x8555,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,99,67,85,42,87,380,76.0
+S00128,Michael Fleming,Male,2008-01-05,4,balldalton@example.org,501.554.7341x026,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,65,46,40,59,86,296,59.2
+S00129,Ashley Andrade,Female,2006-10-16,11,lawrence06@example.net,+1-749-601-1162x89406,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,74,98,65,92,69,398,79.6
+S00130,Sarah Dougherty,Female,2012-08-14,4,johnathan41@example.org,-6379,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,73,69,72,82,82,378,75.6
+S00131,Suzanne Lambert,Female,2014-08-17,11,jennifercastro@example.com,(727)877-7710x7862,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,63,63,92,99,69,386,77.2
+S00132,Michael Fowler,Male,2013-03-12,11,christopher36@example.com,+1-207-373-0578x768,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,64,42,99,60,94,359,71.8
+S00133,Tony Holt,Male,2012-01-19,5,kcampbell@example.com,+1-718-716-6772x93101,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,73,66,57,99,67,362,72.4
+S00134,Nathan Hart,Male,2015-06-22,12,bgalloway@example.org,6942591442,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,52,94,64,71,74,355,71.0
+S00135,Suzanne Schultz,Female,2012-03-04,11,sonyajones@example.net,(586)429-0623x298,"3805 Jackson Knolls Apt. 505, South Michelle, NJ 67403",Campbell-Dixon School,97,71,67,76,98,409,81.8
+S00001,Charles Scott,Male,2007-05-29,7,pattersonrebecca@example.com,(746)854-4447x02767,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",52,44,60,42,73,271,54.2
+S00002,Jamie Thomas,Female,2011-03-25,9,steven43@example.net,(408)780-4585x41195,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",78,60,76,56,44,314,62.8
+S00003,Cory Thomas,Male,2012-04-07,8,nbarber@example.org,710.783.2918,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",46,70,78,75,41,310,62.0
+S00004,Shannon Myers,Female,2008-12-23,11,flemingcindy@example.com,(253)624-4862x89844,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",84,64,86,42,50,326,65.2
+S00005,Michael Castro,Male,2012-09-25,9,lindafritz@example.net,001-298-214-1130x13128,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",58,65,70,95,55,343,68.6
+S00006,Richard Miller,Male,2016-08-21,9,dale14@example.net,001-934-991-5879x14380,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",80,73,82,48,91,374,74.8
+S00007,Albert Hernandez,Male,2015-12-07,11,james83@example.com,762.345.5314x2492,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",89,83,51,74,69,366,73.2
+S00008,Janice Nichols,Female,2013-12-08,7,zadams@example.org,2177818952,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",92,68,88,85,83,416,83.2
+S00009,Jennifer Wilcox,Female,2009-06-23,7,charles97@example.com,886.612.3777x627,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",96,66,58,68,88,376,75.2
+S00010,Samantha Hall,Female,2018-07-16,11,xwalters@example.net,+1-628-894-0648x21223,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",60,55,100,91,71,377,75.4
+S00011,Ian Sherman,Male,2019-08-01,8,jason90@example.net,9187728342,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",99,57,53,88,63,360,72.0
+S00012,Steven Cervantes,Male,2017-05-27,10,stevenhughes@example.net,(608)400-5992x0283,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",64,67,87,61,93,372,74.4
+S00013,Brian Collins,Male,2016-05-25,4,upotts@example.net,256.335.0332x9804,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",93,84,94,62,75,408,81.6
+S00014,Randy George,Male,2017-08-28,4,david07@example.org,+1-993-448-4004x014,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,83,68,40,82,358,71.6
+S00015,James Maxwell,Male,2013-08-11,2,rdaugherty@example.org,3199095579,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",96,52,64,83,75,370,74.0
+S00016,Ricardo Davis,Male,2009-10-04,12,stanleyjoseph@example.com,+1-632-583-3573x163,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,69,99,41,83,332,66.4
+S00017,Kimberly Rodriguez,Female,2008-10-06,3,jdavis@example.org,+1-946-761-9290x59893,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",71,63,89,97,82,402,80.4
+S00018,Cassandra Hall,Female,2007-06-22,3,natalie69@example.com,373.638.3493x3228,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",62,40,45,54,76,277,55.4
+S00019,Austin Hill,Male,2014-04-17,1,vasquezdaniel@example.net,970.689.5753x7381,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",52,45,97,49,80,323,64.6
+S00020,George Davis,Male,2014-05-19,8,robertbrown@example.net,689-742-1947,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,91,75,83,67,356,71.2
+S00021,Sean Caldwell,Male,2012-08-27,3,fullerjacqueline@example.org,001-577-918-7694x304,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",92,86,76,47,62,363,72.6
+S00022,Jennifer Hernandez,Female,2008-10-02,11,deborah14@example.com,577.215.4812x940,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",57,86,97,51,73,364,72.8
+S00023,Briana Griffin,Female,2019-04-22,5,anna50@example.com,2922820863,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,47,54,57,91,344,68.8
+S00024,Travis Tucker,Male,2015-12-10,4,mwest@example.org,9672459150,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",53,53,72,41,44,263,52.6
+S00025,Jimmy Reed,Male,2013-10-21,11,cheryl61@example.com,(672)469-7301,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",52,45,98,89,72,356,71.2
+S00026,Michael Zimmerman,Male,2016-04-28,11,carolyn72@example.com,938.301.4017x0001,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",88,90,74,61,70,383,76.6
+S00027,Micheal Garcia,Male,2019-07-14,1,crystal84@example.com,(881)461-6566,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,71,77,42,84,369,73.8
+S00028,Shelby Sutton,Female,2017-04-27,9,gfrederick@example.com,+1-498-792-4476x644,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",45,82,75,96,99,397,79.4
+S00029,Ronald Calderon,Male,2019-12-28,11,ibarrett@example.org,800-903-0131x67037,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",68,42,44,67,72,293,58.6
+S00030,Thomas Jones,Male,2014-03-25,8,timothy42@example.org,8968777474,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,100,50,57,40,332,66.4
+S00031,Emily Mullins,Female,2017-01-04,8,ttorres@example.net,631.917.3201x9673,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",90,59,41,89,71,350,70.0
+S00032,Aaron Campbell II,Male,2014-08-31,2,adamsalexandra@example.com,(881)881-5912,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",47,74,89,49,48,307,61.4
+S00033,Courtney Scott,Female,2015-03-06,1,brittany38@example.net,982-974-8727,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",44,92,80,54,51,321,64.2
+S00034,Kendra Russell,Female,2015-12-17,1,micheal17@example.org,001-644-247-5151x74926,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",84,42,54,70,83,333,66.6
+S00035,David Cabrera,Male,2015-10-17,3,marielester@example.com,861-940-2555,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",88,73,73,65,51,350,70.0
+S00036,James Torres,Male,2008-03-16,6,phudson@example.org,748.988.8389,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",78,57,59,82,60,336,67.2
+S00037,Angelica Ritter,Female,2017-12-04,11,jmartinez@example.net,+1-208-702-0953x4079,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",49,40,83,43,94,309,61.8
+S00038,Felicia Rivera,Female,2014-12-06,9,christopher53@example.net,001-883-982-2664x2719,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",92,100,64,93,41,390,78.0
+S00039,William Vazquez,Male,2014-08-08,10,rachel29@example.net,236-442-0441x4792,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",66,75,51,95,46,333,66.6
+S00040,Omar Mckee,Male,2012-07-09,1,robin18@example.com,873.876.7574,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",59,54,93,51,43,300,60.0
+S00041,Deborah Campbell,Female,2010-11-15,7,brian72@example.com,001-919-693-5034x8820,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",80,80,70,99,67,396,79.2
+S00042,Matthew Jones,Male,2018-01-31,4,ugonzalez@example.net,(469)264-9987,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",57,92,84,96,89,418,83.6
+S00043,Felicia Ballard MD,Female,2014-02-16,7,antonioortiz@example.com,9176120716,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",78,69,70,78,62,357,71.4
+S00044,Christopher Watson,Male,2016-06-23,7,jeremiahmorris@example.org,(838)821-9846x782,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",82,46,50,60,82,320,64.0
+S00045,Brandon Byrd,Male,2015-11-17,6,twebb@example.net,388.454.4189,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,62,61,45,75,338,67.6
+S00046,Debbie Short,Female,2010-11-16,3,turnerkatherine@example.org,481-530-0759,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",46,60,75,93,52,326,65.2
+S00047,Matthew Chase,Male,2018-03-13,2,bmelton@example.net,783-423-9715x04593,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",88,51,64,64,70,337,67.4
+S00048,Joseph Riley,Male,2015-06-01,3,alicia49@example.net,665.450.8235x675,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,46,62,68,92,353,70.6
+S00049,Lauren Hoover,Female,2018-07-31,4,rbrewer@example.org,(556)681-5338,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",77,70,65,67,80,359,71.8
+S00050,Connie Cline,Female,2016-03-07,5,katherinejones@example.org,(807)413-7503,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",49,50,43,42,71,255,51.0
+S00051,John Smith,Male,2019-08-26,4,perezscott@example.org,-7761,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",47,93,95,52,99,386,77.2
+S00052,Wendy Nichols,Female,2016-01-29,10,nicole51@example.com,(474)476-7116x2392,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",71,57,75,83,47,333,66.6
+S00053,Kelly Jones,Female,2017-09-10,6,cfernandez@example.net,001-969-739-7944x54776,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",87,71,90,54,71,373,74.6
+S00054,Catherine Freeman,Female,2012-05-11,5,cmclaughlin@example.com,001-875-673-3357x875,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",70,46,92,86,68,362,72.4
+S00055,Lori Higgins,Female,2013-05-18,12,richard76@example.net,291-259-8935,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",92,91,71,90,76,420,84.0
+S00056,Eric Smith,Male,2009-10-16,10,sandra02@example.net,463.501.6934x49113,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",75,86,53,58,94,366,73.2
+S00057,Melissa Saunders,Female,2011-09-18,6,johnjohnson@example.net,203.491.0399,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",67,93,73,63,46,342,68.4
+S00058,Robert Castillo,Male,2019-04-04,9,lori05@example.org,001-424-523-6098x287,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",96,99,97,46,61,399,79.8
+S00059,David Manning,Male,2018-03-08,9,travisdouglas@example.org,823-308-4060,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",50,57,70,54,69,300,60.0
+S00060,Keith Smith,Male,2011-04-21,5,damon14@example.org,922-585-9160x43718,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",60,82,67,64,77,350,70.0
+S00061,Dr. Tina Bryan MD,Female,2009-08-30,4,bclayton@example.com,938.957.8066x552,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",43,42,92,99,97,373,74.6
+S00062,Christina Harris,Female,2016-07-17,11,belindaedwards@example.net,5289632204,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",65,84,74,55,45,323,64.6
+S00063,Louis Rhodes,Male,2006-07-17,3,patrickstevenson@example.net,372.864.0739,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",83,42,60,66,71,322,64.4
+S00064,Jamie Taylor,Female,2014-11-03,1,kevin34@example.org,868-619-8364x5333,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",100,81,51,43,58,333,66.6
+S00065,Michelle Martinez,Female,2009-05-02,5,rodriguezvictoria@example.com,(996)686-0341x69976,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",100,99,83,64,94,440,88.0
+S00066,Heather Clark,Female,2010-12-03,11,ejohnson@example.com,001-800-788-8771x7234,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",41,51,91,80,65,328,65.6
+S00067,Mark Myers,Male,2017-03-05,1,meagan09@example.net,5282659831,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",79,81,68,99,66,393,78.6
+S00068,Robert Anderson,Male,2019-12-21,11,sgregory@example.net,(924)466-7155,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",89,42,74,64,61,330,66.0
+S00069,Patty Martin,Female,2008-06-28,4,jay94@example.org,(856)348-5774x825,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",71,70,73,49,48,311,62.2
+S00070,Erin Garrett,Female,2017-11-29,6,ronald66@example.net,-6750,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",64,89,80,46,54,333,66.6
+S00071,Madison Miles,Female,2019-04-01,5,ble@example.com,(578)961-2128,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",50,99,85,65,92,391,78.2
+S00072,Kimberly Williams,Female,2010-11-19,7,stephenthompson@example.net,+1-759-731-5818x9244,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",42,94,67,98,85,386,77.2
+S00073,Scott Brown,Male,2018-04-30,8,rodriguezvincent@example.org,001-393-490-7656,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",54,83,44,90,81,352,70.4
+S00074,Matthew Simpson,Male,2013-03-01,10,jessica03@example.org,(655)862-9779x67294,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",58,67,68,96,77,366,73.2
+S00075,Dr. Nicole Johnson,Female,2009-03-21,12,teresa91@example.org,796.476.8466x099,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",68,59,47,43,51,268,53.6
+S00076,Margaret Wells,Female,2018-12-07,11,mariahoffman@example.org,+1-789-598-2186x66448,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",80,47,63,69,70,329,65.8
+S00077,Tanya Dillon,Female,2012-04-08,8,jennifermitchell@example.org,759.248.9999,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",70,100,53,52,78,353,70.6
+S00078,Dennis Cooper,Male,2007-08-30,8,changmarissa@example.com,+1-935-837-5206x371,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",47,66,66,64,89,332,66.4
+S00079,Lauren Richards,Female,2016-07-07,11,ryanhicks@example.com,817.625.9022,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,80,86,84,93,438,87.6
+S00080,Kristina Smith,Female,2016-12-27,10,nancy17@example.org,2536867565,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",69,61,89,59,67,345,69.0
+S00081,Andrea Quinn,Female,2018-03-16,8,johnsonpatrick@example.org,452.205.6198,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",73,67,93,49,70,352,70.4
+S00082,Kelli Obrien,Female,2008-10-20,6,uowens@example.net,977.619.1317,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",88,65,43,82,100,378,75.6
+S00083,Natalie Tucker,Female,2016-06-19,7,hoffmanbonnie@example.net,403-282-7016x19337,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",87,96,41,42,46,312,62.4
+S00084,Megan Shelton DDS,Female,2012-10-13,6,destiny96@example.com,785-975-5359x8586,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",87,85,72,56,47,347,69.4
+S00085,Nicole Ray,Female,2007-11-19,12,pthompson@example.net,(584)317-0665x140,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",55,91,83,91,83,403,80.6
+S00086,Lauren Bond,Female,2007-08-23,7,johnpayne@example.org,6872462579,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",51,50,99,43,42,285,57.0
+S00087,Casey Brown,Male,2015-09-06,1,joshuamartinez@example.org,001-668-216-1142x56128,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",66,77,59,68,43,313,62.6
+S00088,Corey Hill,Male,2013-06-03,9,patrick20@example.net,555.775.9896,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",81,58,46,95,100,380,76.0
+S00089,Richard Perez,Male,2018-10-16,10,xjames@example.net,001-370-437-9311x9688,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",89,40,71,71,95,366,73.2
+S00090,Colleen Lindsey,Female,2019-12-24,11,stacypotts@example.net,001-319-996-8062,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",46,90,51,51,50,288,57.6
+S00091,Jose Edwards,Male,2019-09-07,8,ryan94@example.net,584-673-1906,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",75,65,67,87,59,353,70.6
+S00092,Alexandra Johnston DDS,Female,2014-08-06,11,gerald33@example.org,+1-213-890-2231x1841,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,52,67,52,62,328,65.6
+S00093,Nancy Wood,Female,2015-01-22,4,martinhunter@example.org,(238)273-5578x502,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",77,61,80,65,61,344,68.8
+S00094,Lisa Martin,Female,2016-03-29,7,zchambers@example.org,+1-902-212-5493x538,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,63,62,83,43,291,58.2
+S00095,Cynthia Turner,Female,2013-01-26,3,nicholas07@example.org,8695533358,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",96,92,96,77,46,407,81.4
+S00096,Amanda Pitts,Female,2017-01-19,7,qvillegas@example.net,950.728.3599x532,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",70,45,64,64,48,291,58.2
+S00097,Kyle Miller,Male,2020-04-09,3,thooper@example.org,(780)482-0435x9527,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,47,54,100,41,282,56.4
+S00098,Benjamin Luna,Male,2018-12-01,9,veronicagonzalez@example.org,(762)425-1613,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",65,69,49,77,94,354,70.8
+S00099,Ray Arellano,Male,2015-02-02,12,higginsandrea@example.org,001-355-587-4023x19990,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",49,44,45,99,66,303,60.6
+S00100,William Ward,Male,2009-08-30,3,daniel45@example.org,708-319-4243,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",47,46,41,92,73,299,59.8
+S00101,Matthew Bradley,Male,2017-04-09,2,darrell47@example.org,2277877936,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",89,65,85,99,58,396,79.2
+S00102,Todd Roth,Male,2020-04-06,3,brittneybrady@example.org,568.576.1807x3449,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",94,57,68,70,95,384,76.8
+S00103,John Thomas,Male,2008-10-04,12,brianbrock@example.org,3659325634,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",80,84,79,94,94,431,86.2
+S00104,Jesse Nielsen,Male,2015-01-14,5,ebutler@example.org,666-366-9909x3323,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",98,50,84,69,95,396,79.2
+S00105,John Hernandez,Male,2015-06-29,4,nmoses@example.net,3432460267,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",52,85,74,95,47,353,70.6
+S00106,Monica Perez,Female,2018-12-30,7,christophercollins@example.org,+1-610-474-6482x68343,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",81,63,95,86,53,378,75.6
+S00107,Samantha White,Female,2006-11-21,5,simonbrandon@example.com,7019913254,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",69,46,82,51,96,344,68.8
+S00108,Courtney French,Female,2011-01-15,2,ukeller@example.org,700-958-1448x38281,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",53,98,73,81,75,380,76.0
+S00109,David Sanchez,Male,2012-07-09,2,wcollins@example.net,001-400-245-0155x1453,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",61,77,77,62,98,375,75.0
+S00110,Patricia Fuller,Female,2008-10-04,3,nbradley@example.net,001-237-417-5538x5817,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",74,84,50,81,96,385,77.0
+S00111,Ashley Lucas,Female,2018-06-05,1,daniellewilliams@example.net,(542)781-6654x02294,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",80,59,76,93,80,388,77.6
+S00112,Angela Stafford,Female,2016-04-28,7,ballbrandon@example.org,939.398.2370x3393,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",51,79,94,85,100,409,81.8
+S00113,Bailey Rich,Female,2018-07-01,8,kristinatodd@example.org,001-564-788-9002x55221,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",43,46,77,50,58,274,54.8
+S00114,Patricia Guerra,Female,2020-04-16,9,fischerbrent@example.com,-8940,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",83,42,53,81,91,350,70.0
+S00115,Sandra Huynh,Female,2015-02-16,11,john62@example.net,388.995.0606x317,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",65,77,93,86,66,387,77.4
+S00116,Adam Jones,Male,2014-12-08,5,vbaker@example.com,001-959-926-7388x39444,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",46,50,89,97,71,353,70.6
+S00117,Kevin Blake,Male,2010-06-23,10,amanda03@example.com,903-645-0593x7978,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",81,78,40,47,57,303,60.6
+S00118,Isaac Jones,Male,2007-02-12,1,juanramirez@example.org,(554)488-1687x81226,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",53,88,77,44,68,330,66.0
+S00119,Sandra Lee DDS,Female,2015-08-09,9,lewiskimberly@example.org,001-729-389-5697x0296,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",61,100,69,67,51,348,69.6
+S00120,Morgan Patton,Female,2010-06-05,2,jcollins@example.net,893.684.7145x74789,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,46,95,60,49,335,67.0
+S00121,Veronica Johnston,Female,2014-06-26,10,christopherdyer@example.org,+1-995-254-5091x3661,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",72,58,75,74,87,366,73.2
+S00122,Mariah Swanson,Female,2010-10-10,11,peter82@example.net,234-227-5361,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",51,90,72,65,71,349,69.8
+S00123,Nicholas Contreras,Male,2018-03-07,9,uashley@example.com,573.895.4674,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",71,75,89,96,44,375,75.0
+S00124,Ryan Davis,Male,2016-04-19,8,harrissamuel@example.com,373-722-8344x4588,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",97,69,73,97,72,408,81.6
+S00125,Kelly Graves,Male,2016-11-24,4,robertsonmaureen@example.org,9905966099,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",91,83,75,56,96,401,80.2
+S00126,Andrew Kirby,Male,2019-04-14,8,sarahgonzales@example.net,-5993,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,62,76,92,44,359,71.8
+S00127,Sarah Peterson,Female,2016-12-04,2,danawilson@example.net,367.573.8229,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",82,82,78,48,42,332,66.4
+S00128,Edwin Gallagher,Male,2010-12-27,11,bishopcody@example.com,(949)460-2348x12242,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",77,47,82,77,48,331,66.2
+S00129,Lisa Farrell,Female,2006-12-04,4,johnsonjason@example.com,653.669.7447x29872,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",95,46,86,45,81,353,70.6
+S00130,Julian Taylor,Male,2016-02-12,4,kurtacosta@example.org,001-966-949-9599x06446,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",84,54,76,45,100,359,71.8
+S00131,Elizabeth Chan,Female,2018-09-22,12,heatherhill@example.com,736-744-7664x854,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,46,65,86,99,336,67.2
+S00132,Brian Frost,Male,2018-03-28,8,petersryan@example.org,252-837-0791x79242,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",69,47,87,60,51,314,62.8
+S00133,Joan Pitts,Female,2008-10-13,10,ericcampos@example.com,+1-746-779-8734x161,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",77,49,67,86,70,349,69.8
+S00134,Michelle Peters,Female,2012-03-19,4,timothyfrey@example.com,(824)204-7903x339,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",60,91,55,41,95,342,68.4
+S00135,Jeffrey Rodriguez,Male,2014-12-13,4,iyoung@example.net,+1-798-248-2141x279,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",55,69,61,98,59,342,68.4
+S00136,Jordan Mills,Male,2006-10-23,11,natashajimenez@example.net,3599588756,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",79,92,86,59,53,369,73.8
+S00137,Eric Booth,Male,2012-09-27,2,hfreeman@example.net,(463)788-4358,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",55,72,90,69,72,358,71.6
+S00138,Jason Love,Male,2009-06-08,4,hugheskenneth@example.com,593-801-9010x109,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",89,42,75,74,95,375,75.0
+S00139,Sean Wagner,Male,2009-11-26,12,christopherjames@example.net,412.240.5825,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",74,53,57,44,59,287,57.4
+S00140,Kevin Khan,Male,2014-03-09,10,conniemcgrath@example.org,+1-454-526-6472x486,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",71,56,91,98,74,390,78.0
+S00141,Kim Bray,Female,2016-04-10,10,richardwatkins@example.net,644-686-3182x300,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",99,95,41,83,60,378,75.6
+S00142,Kelly Garcia,Female,2009-01-05,7,charles90@example.com,489-931-9202x0119,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",85,55,76,84,96,396,79.2
+S00143,John Carrillo,Male,2015-10-28,2,salazarjamie@example.com,789-334-6369,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",75,83,77,55,45,335,67.0
+S00144,Valerie Lopez,Female,2015-05-12,11,matthewmorrison@example.org,(219)709-2943,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",53,89,76,90,73,381,76.2
+S00145,Amber Dickson,Female,2014-05-27,5,carol79@example.net,834-607-9237x99415,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",42,89,43,49,72,295,59.0
+S00146,Brenda Solomon,Female,2018-11-12,9,brenthill@example.com,+1-511-990-9961x9380,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",66,75,84,70,64,359,71.8
+S00147,Benjamin Lindsey,Male,2013-07-26,4,amanda82@example.com,641.713.4441x72633,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",73,43,62,76,52,306,61.2
+S00148,Eric Baxter,Male,2013-11-27,10,nataliesmall@example.net,4636777277,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",77,65,41,65,93,341,68.2
+S00149,Gregory Wiggins,Male,2015-05-13,2,xwagner@example.org,-4218,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",44,97,85,90,46,362,72.4
+S00150,Timothy Bridges,Male,2007-03-18,6,mthompson@example.org,849-225-5731,"USCGC Santiago, FPO AP 80765","Webb, Williams and Brown School",40,83,68,62,75,328,65.6
